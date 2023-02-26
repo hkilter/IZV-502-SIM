@@ -89,21 +89,21 @@ Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilec
 Öğrenciler dersi takip etmek, gerekli çalışmaları yapmak ve sınavlara katılmakla ilgili sorumludur. Öğrenci, ayrıca, derste anlatılsın ya da anlatılmasın, ders programında belirtilen bütün konulardan da sorumludur. Bu derste notlandırma yapılan çalışmalar, aksi belirtilmedikçe, bireysel çalışmalardır. Bir çalışmayı yardımlaşarak yapmakla, başkasıyla aynı çalışmayı teslim etmek ayrı şekilde değerlendirilir.
 
 ### 13. Haftalık Program
-<sub>! Dönem içinde değişebilir</sub>
+<sup>! Dönem içinde değişebilir</sup>
 
 | Hafta | Konu  | Slayt | Okuma | Ödev |
 | :---: | :---- | :---- | :---- | :--- |
 | 1	| Derse giriş |
 | 2	| Simülasyona giriş |
-| 3	| Simülasyona ilişkin temel bilgiler |
-| 4	| Rastsallık ve rastsal sayılar |
-| 5	| Rastsal süreçler |
-| 6	| Monte Carlo Simülasyonu |
+| 3	| Temel kavramlar |
+| 4	| Simülasyon yaklaşımları |
+| 5	| Rastsal sayı ve rastsal değişken üretmek |
+| 6	| Stokastik süreç üretmek |
 | 7	| Monte Carlo Simülasyonu |
-| 8	| Kesikli sistemlerin simülasyonu |
+| 8	| Monte Carlo Simülasyonu |
 | 9 | Kesikli sistemlerin simülasyonu |
-| 10 | Uygulamalar |
-| 11 | Uygulamalar |
+| 10 | Kesikli sistemlerin simülasyonu |
+| 11 | İstatistiksel analiz ve geçerliliğin doğrulanması |
 | 12 | Uygulamalar |
 | 13 | Uygulamalar |
 | 14 | Uygulamalar |
