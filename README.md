@@ -57,7 +57,7 @@ Bu ders tasarımında yer alan ve ders notlandırma tablolarının, parametreler
 Notlandırma kriterleri bu ders için hazırlanmıştır ve öğrenciler harf notlarını aşağıdaki tablodaki çalışmalardan toplamaktadır.
 
 
-| Çalışmalar | Ağırlık | Puan |
+| Çalışmalar | Ağırlık (%) | Puan |
 | :--------- | :-----: | :--: |
 | Dönem Projesi	| 40	| 40 |
 | Okumalar ve Ders tartışmaları	| 20	| 20 |
@@ -86,13 +86,21 @@ Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilec
 
 ### 13. Haftalık Program (değişebilir)
 
-| Hafta | Konu | Hafta | Konu |
-| :---: | :--- | :---: | :--- |
-| 1	| Derse giriş | 9 | Kesikli sistemlerin simülasyonu |
-| 2	| Simülasyona giriş | 10 | Uygulamalar |
-| 3	| Simülasyona ilişkin temel bilgiler | 11 | Uygulamalar |
-| 4	| Rastsallık ve rastsal sayılar | 12 | Uygulamalar |
-| 5	| Rastsal süreçler | 13 | Uygulamalar |
-| 6	| Monte Carlo Simülasyonu | 14 | Uygulamalar |
-| 7	| Monte Carlo Simülasyonu | 15 | Proje sunumları |
-| 8	| Kesikli sistemlerin simülasyonu | 16 | Proje sunumları |
+| Hafta | Konu  | Slayt | Okuma | Ödev |
+| :---: | :---- | :---- | :---- | :--- |
+| 1	| Derse giriş |
+| 2	| Simülasyona giriş |
+| 3	| Simülasyona ilişkin temel bilgiler |
+| 4	| Rastsallık ve rastsal sayılar |
+| 5	| Rastsal süreçler |
+| 6	| Monte Carlo Simülasyonu |
+| 7	| Monte Carlo Simülasyonu |
+| 8	| Kesikli sistemlerin simülasyonu |
+| 9 | Kesikli sistemlerin simülasyonu |
+| 10 | Uygulamalar |
+| 11 | Uygulamalar |
+| 12 | Uygulamalar |
+| 13 | Uygulamalar |
+| 14 | Uygulamalar |
+| 15 | Proje sunumları |
+| 16 | Proje sunumları |
