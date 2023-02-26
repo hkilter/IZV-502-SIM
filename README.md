@@ -1,7 +1,8 @@
 # IZV 502 İş Simülasyonu
 **2023 Bahar Ders Planı**  
 İzmir Bakırçay Üniversitesi, İş Zekası ve Veri Analitiği Yüksek Lisans Programı  
-Prof. Dr. H. Kemal İlter
+Prof. Dr. H. Kemal İlter  
+kemal.ilter@bakircay.edu.tr
 
 ### 1. Ders
 Simülasyon (benzetim), bir sistemin davranışlarının belirlenebilmesi için o sistemin laboratuvar ortamında oluşturulması anlamına gelebilmektedir. Amaç, gerçek sistemin davranışlarının ve sistem çıktılarının benzerlerinin oluşturulması ve sistemin tanımlanmasıdır. Bir simülasyon, bir sistemin belirli bir zaman içinde sayısal olarak değişimini veya evrimleşmesini modellemek için kullanılabilmektedir.
@@ -84,7 +85,7 @@ Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilec
 ### 12. Sorumluluk ve Akademik Etik
 Öğrenciler dersi takip etmek, gerekli çalışmaları yapmak ve sınavlara katılmakla ilgili sorumludur. Öğrenci, ayrıca, derste anlatılsın ya da anlatılmasın, ders programında belirtilen bütün konulardan da sorumludur. Bu derste notlandırma yapılan çalışmalar, aksi belirtilmedikçe, bireysel çalışmalardır. Bir çalışmayı yardımlaşarak yapmakla, başkasıyla aynı çalışmayı teslim etmek ayrı şekilde değerlendirilir.
 
-### 13. Haftalık Program (değişebilir)
+### 13. Haftalık Program
 `! Dönem içinde değişebilir`
 
 | Hafta | Konu  | Slayt | Okuma | Ödev |
