@@ -85,7 +85,7 @@ Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilec
 Öğrenciler dersi takip etmek, gerekli çalışmaları yapmak ve sınavlara katılmakla ilgili sorumludur. Öğrenci, ayrıca, derste anlatılsın ya da anlatılmasın, ders programında belirtilen bütün konulardan da sorumludur. Bu derste notlandırma yapılan çalışmalar, aksi belirtilmedikçe, bireysel çalışmalardır. Bir çalışmayı yardımlaşarak yapmakla, başkasıyla aynı çalışmayı teslim etmek ayrı şekilde değerlendirilir.
 
 ### 13. Haftalık Program (değişebilir)
-! Dönem içinde değişebilir
+`! Dönem içinde değişebilir`
 
 | Hafta | Konu  | Slayt | Okuma | Ödev |
 | :---: | :---- | :---- | :---- | :--- |
