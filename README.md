@@ -1,9 +1,11 @@
 # IZV 502 İş Simülasyonu
+**2023 Bahar Ders Planı**  
+Prof. Dr. H. Kemal İlter
 
 ### 1. Ders
 Simülasyon (benzetim), bir sistemin davranışlarının belirlenebilmesi için o sistemin laboratuvar ortamında oluşturulması anlamına gelebilmektedir. Amaç, gerçek sistemin davranışlarının ve sistem çıktılarının benzerlerinin oluşturulması ve sistemin tanımlanmasıdır. Bir simülasyon, bir sistemin belirli bir zaman içinde sayısal olarak değişimini veya evrimleşmesini modellemek için kullanılabilmektedir.
 
-Bu derste, simülasyonun işletme süreçlerine ilişkin karar mekanizmasındaki kullanımına odaklanılmaktadır. Dersin konuları, genel olarak simülasyonun teorik ve pratik yönlerini kapsamaktadır. Simülasyonun temelleri, rastsal süreçler, Monte Carlo yöntemi ve kesikli simülasyondan bahsedilen ilk bölümün ardından, bekleme hatlarının modellenmesi, stok sistemlerinin simülasyonu gibi uygulamalar ikinci bölümde sunulacaktır.
+Bu derste, simülasyonun işletme süreçlerine ilişkin karar mekanizmasındaki kullanımına odaklanılmaktadır. Dersin konuları, genel olarak simülasyonun teorik ve pratik yönlerini kapsamaktadır. Simülasyonun temelleri, rastsal süreçler, Monte Carlo yöntemi ve kesikli simülasyondan bahsedilen ilk bölümün ardından, günlük yaşama ilişkin örnekler, bekleme hatlarının modellenmesi, stok sistemlerinin simülasyonu gibi uygulamalar ikinci bölümde sunulacaktır.
 
 ### 2. Amaçlar
 Bu dersi başarıyla tamamlayan öğrencinin;
