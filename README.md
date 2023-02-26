@@ -1,6 +1,9 @@
 # IZV 502 İş Simülasyonu
 **2023 Bahar Ders Planı**  
-İzmir Bakırçay Üniversitesi, İş Zekası ve Veri Analitiği Yüksek Lisans Programı  
+
+İzmir Bakırçay Üniversitesi  
+İş Zekası ve Veri Analitiği Yüksek Lisans Programı  
+
 Prof. Dr. H. Kemal İlter  
 kemal.ilter@bakircay.edu.tr
 
@@ -86,7 +89,7 @@ Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilec
 Öğrenciler dersi takip etmek, gerekli çalışmaları yapmak ve sınavlara katılmakla ilgili sorumludur. Öğrenci, ayrıca, derste anlatılsın ya da anlatılmasın, ders programında belirtilen bütün konulardan da sorumludur. Bu derste notlandırma yapılan çalışmalar, aksi belirtilmedikçe, bireysel çalışmalardır. Bir çalışmayı yardımlaşarak yapmakla, başkasıyla aynı çalışmayı teslim etmek ayrı şekilde değerlendirilir.
 
 ### 13. Haftalık Program
-`! Dönem içinde değişebilir`
+<sub>! Dönem içinde değişebilir</sub>
 
 | Hafta | Konu  | Slayt | Okuma | Ödev |
 | :---: | :---- | :---- | :---- | :--- |
