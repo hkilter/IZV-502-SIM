@@ -111,4 +111,4 @@ Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilec
 | 15 | **Proje sunumları** |
 | 16 | **Proje sunumları** |
 
-[^1]: [Simülasyon, İlter, H. K. 2022.](kaynaklar/simulasyon-preprint.pdf)
+[^1]: [Simülasyon, İlter, H. K. 2022.](IZV-502-SIM/blob/main/kaynaklar/simulasyon-preprint.pdf)
