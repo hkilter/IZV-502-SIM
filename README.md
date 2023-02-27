@@ -5,7 +5,8 @@
 İş Zekası ve Veri Analitiği Yüksek Lisans Programı  
 
 Prof. Dr. H. Kemal İlter  
-kemal.ilter@bakircay.edu.tr
+kemal.ilter@bakircay.edu.tr  
+@hkilter
 
 ### 1. Ders
 Simülasyon (benzetim), bir sistemin davranışlarının belirlenebilmesi için o sistemin laboratuvar ortamında oluşturulması anlamına gelebilmektedir. Amaç, gerçek sistemin davranışlarının ve sistem çıktılarının benzerlerinin oluşturulması ve sistemin tanımlanmasıdır. Bir simülasyon, bir sistemin belirli bir zaman içinde sayısal olarak değişimini veya evrimleşmesini modellemek için kullanılabilmektedir.
