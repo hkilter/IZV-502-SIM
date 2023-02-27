@@ -43,15 +43,15 @@ Dersler slaytlar yardımıyla işlenmektedir. Derste kullanılan slaytlar, her d
 ### 6. Araçlar
 Derste aşağıdaki araçları kullanılmaktadır. Öğrencinin ilk iki haftada Excel, GitHub ve RStudio için giriş düzeyinde bilgi sahibi olması ve kullanması beklenmektedir.
 
-- Git. https://training.github.com/downloads/tr/github-git-cheat-sheet
-- (+) GitHub. https://githubtraining.github.io/training-manual/book.pdf
-- GitHub Docs. https://docs.github.com
-- (+) R. https://www.r-project.org
-- (+) RStudio. https://support--rstudio-com.netlify.app/resources/cheatsheets
-- VS Code. https://code.visualstudio.com
-- (+) MS Excel. https://www.microsoft.com/en/microsoft-365/excel
-- Python. https://www.python.org
-- Julia. https://julialang.org
+- [ ] Git. https://training.github.com/downloads/tr/github-git-cheat-sheet
+- [x] GitHub. https://githubtraining.github.io/training-manual/book.pdf
+- [ ] GitHub Docs. https://docs.github.com
+- [ ] R. https://www.r-project.org
+- [x] RStudio. https://support--rstudio-com.netlify.app/resources/cheatsheets
+- [ ] VS Code. https://code.visualstudio.com
+- [x] MS Excel. https://www.microsoft.com/en/microsoft-365/excel
+- [ ] Python. https://www.python.org
+- [ ] Julia. https://julialang.org
 
 ### 7. Notlandırma
 Bu ders tasarımında yer alan ve ders notlandırma tablolarının, parametrelerinin, yüzdelerinin ve diğer notlandırma bilgilerinin tamamı öğrencinin bu dersteki akademik performansını değerlendirmek için kullanılmaktadır. Bu derste katalog sistemi kullanılmakta, çan eğrisi (curve) sistemi kullanılmamaktadır. Öğrenciler bu derste topladıkları puanları web sitesinden takip edebilirler. Bu yolla öğrenilen notlarla dersin öğretim elemanının puan listesi arasında fark olursa, öğretim elemanının listesi doğru kabul edilir. Öğrenciler, dönem sonunda kişisel akademik performansını yansıtan bir harf notu alırlar. Bu dersle ilgili ek çalışmalar dersin öğretim elemanı tarafından ayrıca değerlendirilebilir. Dönemin son dersinden sonra yapılan ek çalışmalar notlandırılmaz.
@@ -104,8 +104,8 @@ Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilec
 | 9 | **Kesikli sistemlerin simülasyonu** - 1 <br> Kesikli simülasyon (ayrık olay simülasyonu), bir sistemin işleyişinin zaman akışı boyunca birbirinden ayrı (ayrık) olaylar dizisi olarak modellemek için kullanılır. Her olay belirli bir zamanda meydana gelir ve sistemdeki bir durum değişikliğini gösterir. |
 | 10 | **Kesikli sistemlerin simülasyonu** - 2 |
 | 11 | **İstatistiksel analiz ve geçerliliğin doğrulanması** <br> Bir simülasyon modelinin doğrulanması (validation) genellikle ihmal edilen önemli bir konudur ve “Bir simülasyon modeli gerçek sistemin operasyonlarını ne kadar doğru şekilde yansıtır?” veya “Elde edilen simülasyon sonuçlarının doğru ve anlamlı olduğundan ne kadar emin olunabilir?” gibi sorulara yanıt verilebilmesini sağlar.|
-| 12 | Uygulamalar |
-| 13 | Uygulamalar |
-| 14 | Uygulamalar |
-| 15 | Proje sunumları |
-| 16 | Proje sunumları |
+| 12 | **Uygulamalar** |
+| 13 | **Uygulamalar** |
+| 14 | **Uygulamalar** |
+| 15 | **Proje sunumları** |
+| 16 | **Proje sunumları** |
