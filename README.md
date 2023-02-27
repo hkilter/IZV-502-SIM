@@ -31,7 +31,7 @@ V	Uygulamalar.
 ### 4. Kaynaklar
 Derste, tek bir ders kitabı belirlemek yerine çeşitli kitap ve makalelerden faydalanılmaktadır. Bunlardan bazıları aşağıda listelenmiştir:
 
-- İlter, H. Kemal. Simülasyon ile Modelleme. (2022). Veri Modelleme ve Veri Analitiği içinde (1. ed., s. 612–653). Nobel Akademik Yayıncılık.
+- İlter, H. Kemal. Simülasyon ile Modelleme[^1]. (2022). Veri Modelleme ve Veri Analitiği içinde (1. ed., s. 612–653). Nobel Akademik Yayıncılık.
 - An Introduction to Management Science: Quantitative Approaches to Decision Making, 14e. D. R. Anderson, D. J. Sweeney, T. A. Williams, J. D. Camm, J. J. Cochran, M. J. Fry, J. W. Ohlmann, Cengage Learning, 2016. ISBN-10: 1111823618 | ISBN-13: 9781111823610.
 - Balakrishnan, N., B. Render, and R. M. Stair Jr. 2007. Managerial Decision Modeling with Spreadsheets. Upper Saddle River, New Jersey: Prentice-Hall, Incorporated. ISBN: 013226806X.
 - Introduction to Operations Research 8th Ed., McGraw-Hill, 2005, by Hillier, F.S., Lieberman, G.J., ISBN-13 9780073211145.
@@ -110,3 +110,5 @@ Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilec
 | 14 | **Uygulamalar** |
 | 15 | **Proje sunumları** |
 | 16 | **Proje sunumları** |
+
+[^1]: pdf
