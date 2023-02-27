@@ -93,7 +93,7 @@ Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilec
 
 | Hafta | Konu  | Slayt | Okuma | Ödev |
 | :---: | :---- | :---- | :---- | :--- |
-| 1	| Derse giriş |
+| 1	| **Derse giriş** |
 | 2	| **Simülasyona giriş** <br> Simülasyon, bir sisteme ilişkin operasyonun belirli bir zaman süresince çalışan yaklaşık bir taklidi olarak düşünülebilir. Diğer yandan, bir süreci ifade edecek şekilde kullanımı da yaygındır. Bu açıdan bakıldığında, simülasyon, bir sistemin davranışlarının belirlenebilmesi için o sistemin laboratuvar ortamında oluşturulması anlamına gelebilmektedir. |
 | 3	| **Temel kavramlar** <br> Simülasyona ilişkin çalışmanın özelliklerine göre farklı sınıflandırmalar yapılabilir. Fiziksel özelliklerine, çalıştırma zamanına, değişkenlerin belirsizlik durumlarına veya simülasyonun modellendiği teknik platforma göre farklı sınıflar kullanılabilir. |
 | 4	| **Simülasyon yaklaşımları** <br> Simülasyon yaklaşımları, sistemleri farklı bakış açısıyla incelemek için kullanılan yapısal simülasyon kuramları olarak da adlandırılabilir. Temel özelliklerine bakıldığında bunların, sistemin bileşenleri arasındaki ilişkilerin sistem davranışına etkisinin ele alınmasını sağlayan yaklaşımlar olduğu söylenebilir. |
