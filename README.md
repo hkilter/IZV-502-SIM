@@ -94,16 +94,16 @@ Final sınavı, öğrencilerin bilgi birikimlerini uygulamaya dönüştürebilec
 | Hafta | Konu  | Slayt | Okuma | Ödev |
 | :---: | :---- | :---- | :---- | :--- |
 | 1	| Derse giriş |
-| 2	| Simülasyona giriş |
-| 3	| Temel kavramlar |
-| 4	| Simülasyon yaklaşımları |
-| 5	| Rastsal sayı ve rastsal değişken üretmek |
-| 6	| Stokastik süreç üretmek |
-| 7	| Monte Carlo Simülasyonu |
-| 8	| Monte Carlo Simülasyonu |
-| 9 | Kesikli sistemlerin simülasyonu |
-| 10 | Kesikli sistemlerin simülasyonu |
-| 11 | İstatistiksel analiz ve geçerliliğin doğrulanması |
+| 2	| **Simülasyona giriş** <br> Simülasyon, bir sisteme ilişkin operasyonun belirli bir zaman süresince çalışan yaklaşık bir taklidi olarak düşünülebilir. Diğer yandan, bir süreci ifade edecek şekilde kullanımı da yaygındır. Bu açıdan bakıldığında, simülasyon, bir sistemin davranışlarının belirlenebilmesi için o sistemin laboratuvar ortamında oluşturulması anlamına gelebilmektedir. |
+| 3	| **Temel kavramlar** <br> Simülasyona ilişkin çalışmanın özelliklerine göre farklı sınıflandırmalar yapılabilir. Fiziksel özelliklerine, çalıştırma zamanına, değişkenlerin belirsizlik durumlarına veya simülasyonun modellendiği teknik platforma göre farklı sınıflar kullanılabilir. |
+| 4	| **Simülasyon yaklaşımları** <br> Simülasyon yaklaşımları, sistemleri farklı bakış açısıyla incelemek için kullanılan yapısal simülasyon kuramları olarak da adlandırılabilir. Temel özelliklerine bakıldığında bunların, sistemin bileşenleri arasındaki ilişkilerin sistem davranışına etkisinin ele alınmasını sağlayan yaklaşımlar olduğu söylenebilir. |
+| 5	| **Rastsal sayı ve rastsal değişken üretmek** <br> Rastsallık, düzensizlik durumunu anlatır. Rastsal süreç ise, sonuçları deterministik olarak açıklanamayan ancak bir olasılık dağılımını takip eden olaylar bütünüdür. İstatistiğin konuları içinde sıklıkla karşılaşılan rastsallık, belirli bir korelasyondan (ilişkiden) yoksun olayları istatistiksel olarak açıklamak için kullanılır. |
+| 6	| **Stokastik süreç üretmek** <br> Bu yaklaşım, üzerinde çalışılan sistem veya onun kuramsal dayanağı hakkında bir varsayımda bulunmaz ve yukarıda bahsedilen yapısal simülasyon kuramlarına veya varsayımlarına uymayan durumlar için kullanılır. |
+| 7	| **Monte Carlo Simülasyonu** - 1 <br> Monte Carlo simülasyonu, tipik bir tahmin modelinden farklı olarak, bir dizi sabit girdiye bağlı tahmini bir değer aralığına dayalı bir dizi sonucun tahmin edilmesini sağlar. Diğer bir deyişle, Monte Carlo simülasyonu doğası gereği belirsizliğe sahip herhangi bir değişken için olasılık dağılımlarından yararlanarak olası sonuçların bir modelini oluşturur ve minimum ile maksimum değerler arasında farklı bir rastsal sayı kümeleri kullanarak sonuçların tekrar hesaplanmasına izin verir.|
+| 8	| **Monte Carlo Simülasyonu** - 2 |
+| 9 | **Kesikli sistemlerin simülasyonu** - 1 <br> Kesikli simülasyon (ayrık olay simülasyonu), bir sistemin işleyişinin zaman akışı boyunca birbirinden ayrı (ayrık) olaylar dizisi olarak modellemek için kullanılır. Her olay belirli bir zamanda meydana gelir ve sistemdeki bir durum değişikliğini gösterir. |
+| 10 | **Kesikli sistemlerin simülasyonu** - 2 |
+| 11 | **İstatistiksel analiz ve geçerliliğin doğrulanması** <br> Bir simülasyon modelinin doğrulanması (validation) genellikle ihmal edilen önemli bir konudur ve “Bir simülasyon modeli gerçek sistemin operasyonlarını ne kadar doğru şekilde yansıtır?” veya “Elde edilen simülasyon sonuçlarının doğru ve anlamlı olduğundan ne kadar emin olunabilir?” gibi sorulara yanıt verilebilmesini sağlar.|
 | 12 | Uygulamalar |
 | 13 | Uygulamalar |
 | 14 | Uygulamalar |
